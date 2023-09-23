@@ -12,8 +12,8 @@ How to use:
 1. Create the text file with announcement, upload it to Google Drive, and get the file ID of this.
 2. Create a table with three column; addresses, individual greetings, and individual attachment IDs; in a Google Spreadsheet, and get this file ID.
 3. Open App script editor and past the contents of sendMailsWithGAS.js, and modify 3 values.
-  line_4)  var fileId = 'Your-Text-File-ID-Here';
-  line_16)  var sheet = SpreadsheetApp.openById('Your-Spreadsheet-ID-Here').getSheetByName('Your-Spreadsheet-name');
+   line_4)  var fileId = 'Your-Text-File-ID-Here';
+   line_16)  var sheet = SpreadsheetApp.openById('Your-Spreadsheet-ID-Here').getSheetByName('Your-Spreadsheet-name');
 Then run the script.
 
  
