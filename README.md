@@ -1,5 +1,6 @@
 # sendEmailsUsingGmail
-Send notification emails all at once using Gmail. Some contents can be customized individually. Program language is GAS.
+Created by Chat-GPT4.
+Send notification emails all at once using Gmail. Some contents can be customized individually. Program language is GAS. 
 
 This program feature is to send out notification e-mails to several people at once.
 There are four requirements
